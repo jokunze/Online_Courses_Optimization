@@ -1,7 +1,7 @@
 # Online_Courses_Optimization
-# Overview
+## Overview
 This exploratory data analysis (EDA) project aims to derive insights and optimize revenue for an online course business. By analyzing the available data, we aim to uncover patterns, trends, and potential areas of improvement to maximize the business's revenue potential.
-# Data dictionary
+## Data dictionary
 The dataset contains valuable information about various aspects of the courses offered.
 1. Course_ID: unique identifier assigned to each course in the dataset. It is used to
 distinguish and track individual courses.
